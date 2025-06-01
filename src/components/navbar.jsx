@@ -17,7 +17,7 @@ export default function Navbar(props) {
           <Link href="/about">About</Link>
         </Button>
         <Button size="icon" variant="ghost">
-          <Link href="https://github.com/TamimEhsan/AlgorithmVisualizer">
+          <Link href="https://github.com/ALaiNPLayZ/AlgoViz">
             <Github className="h-5 w-5" />
           </Link>
         </Button>
